@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/Foundation/NSString/NSString+JKEncrypt.h

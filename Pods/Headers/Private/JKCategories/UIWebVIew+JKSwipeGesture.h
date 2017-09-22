@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UIWebView/UIWebVIew+JKSwipeGesture.h

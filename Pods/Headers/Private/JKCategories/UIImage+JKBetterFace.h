@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UIImage/UIImage+JKBetterFace.h

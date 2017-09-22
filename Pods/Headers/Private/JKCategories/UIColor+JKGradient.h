@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UIColor/UIColor+JKGradient.h

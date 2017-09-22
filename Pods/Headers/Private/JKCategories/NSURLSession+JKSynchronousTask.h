@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/Foundation/NSURLSession/NSURLSession+JKSynchronousTask.h

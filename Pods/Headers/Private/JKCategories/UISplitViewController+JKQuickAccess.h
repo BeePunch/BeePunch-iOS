@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UISplitViewController/UISplitViewController+JKQuickAccess.h

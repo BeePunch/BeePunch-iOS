@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UINavigationController/UINavigationController+JKStackManager.h

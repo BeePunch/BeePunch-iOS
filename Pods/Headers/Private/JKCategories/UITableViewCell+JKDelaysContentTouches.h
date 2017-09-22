@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UITableViewCell/UITableViewCell+JKDelaysContentTouches.h

@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/Foundation/NSIndexPath/NSIndexPath+JKOffset.h

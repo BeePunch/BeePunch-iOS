@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UIImage/UIImage+JKCapture.h

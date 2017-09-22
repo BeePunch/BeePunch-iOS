@@ -19,6 +19,7 @@ PODS:
   - JSONModel (1.7.0)
   - Masonry (1.1.0)
   - MJRefresh (3.1.12)
+  - MOBFoundation (3.0.2)
   - ReactiveCocoa (2.5):
     - ReactiveCocoa/UI (= 2.5)
   - ReactiveCocoa/Core (2.5):
@@ -29,6 +30,17 @@ PODS:
   - SDWebImage (4.1.0):
     - SDWebImage/Core (= 4.1.0)
   - SDWebImage/Core (4.1.0)
+  - ShareSDK3 (4.0.1):
+    - MOBFoundation
+    - ShareSDK3/ShareSDK (= 4.0.1)
+  - ShareSDK3/ShareSDK (4.0.1):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/QQ (4.0.1):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo (4.0.1):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/WeChat (4.0.1):
+    - MOBFoundation
 
 DEPENDENCIES:
   - AFNetworking (~> 3.1.0)
@@ -37,8 +49,13 @@ DEPENDENCIES:
   - JSONModel (~> 1.7.0)
   - Masonry
   - MJRefresh (~> 3.1.12)
+  - MOBFoundation
   - ReactiveCocoa (~> 2.5)
   - SDWebImage (~> 4.1.0)
+  - ShareSDK3
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo
+  - ShareSDK3/ShareSDKPlatforms/WeChat
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
@@ -47,9 +64,11 @@ SPEC CHECKSUMS:
   JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MOBFoundation: d5e27c4638d911d3c7501aa5df458955d4814359
   ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
   SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  ShareSDK3: 6983a9b5209b63f2f4297fb0328d9a8dd6abd5f1
 
-PODFILE CHECKSUM: ecb0ced968a8c8c687e5d1c8b6077616f05bcf6f
+PODFILE CHECKSUM: 47e2a57f9d93d00f0da042f69bdf32499ad14240
 
 COCOAPODS: 1.2.1

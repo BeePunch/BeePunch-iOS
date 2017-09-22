@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UIView/UIView+JKScreenshot.h

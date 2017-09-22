@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UIBezierPath/UIBezierPath+JKSVGString.h

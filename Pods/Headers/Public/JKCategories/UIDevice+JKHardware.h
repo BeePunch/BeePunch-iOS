@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UIDevice/UIDevice+JKHardware.h

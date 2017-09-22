@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/Foundation/NSURLConnection/NSURLConnection+JKSelfSigned.h

@@ -1,0 +1,6 @@
+framework module Pods_BeePunchUITests {
+  umbrella header "Pods-BeePunchUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

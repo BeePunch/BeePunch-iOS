@@ -1,1 +1,0 @@
-../../../JKCategories/JKCategories/UIKit/UIResponder/UIResponder+JKFirstResponder.h

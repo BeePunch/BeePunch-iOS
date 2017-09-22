@@ -1,0 +1,6 @@
+framework module Pods_BeePunch {
+  umbrella header "Pods-BeePunch-umbrella.h"
+
+  export *
+  module * { export * }
+}
